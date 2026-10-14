@@ -1,6 +1,6 @@
 name: Classroom Delivery
 on: workflow_dispatch
-permission:
+permissions:
   contents: read
 jobs:
   deliver:
